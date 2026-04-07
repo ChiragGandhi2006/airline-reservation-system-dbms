@@ -1,0 +1,749 @@
+================================================================================
+AIRLINE RESERVATION SYSTEM - BOOKING REPORT
+================================================================================
+
+Generated: 2025-11-09 01:38:40
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Bookings: 104
+Confirmed: 42
+Pending: 30
+Cancelled: 32
+Total Revenue: Rs. 769,600.00
+Average Booking Value: Rs. 9,994.81
+
+RECENT BOOKINGS
+--------------------------------------------------------------------------------
+
+Booking ID: 104
+Passenger: Mason Rodriguez
+Flight: VS105 | Seat: 2B
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-07 16:25:54
+----------------------------------------
+
+Booking ID: 103
+Passenger: John Doe
+Flight: AI101 | Seat: 6B
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-06 10:24:54
+----------------------------------------
+
+Booking ID: 102
+Passenger: Zoey Green
+Flight: VS105 | Seat: 8C
+Status: Confirmed | Amount: Rs. 15,000.00
+Date: 2025-10-04 21:46:41
+----------------------------------------
+
+Booking ID: 101
+Passenger: John Doe
+Flight: VS105 | Seat: 2C
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-04 17:14:28
+----------------------------------------
+
+Booking ID: 100
+Passenger: Radhyeshyam Lahoti
+Flight: SJ103 | Seat: 10A
+Status: Confirmed | Amount: Rs. 30,000.00
+Date: 2025-10-04 10:53:55
+----------------------------------------
+
+Booking ID: 99
+Passenger: Chirag  Gandhi
+Flight: IG102 | Seat: 10A
+Status: Confirmed | Amount: Rs. 30,000.00
+Date: 2025-10-03 22:08:19
+----------------------------------------
+
+Booking ID: 98
+Passenger: Nandan  Kabra
+Flight: VS105 | Seat: 5C
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-03 21:59:06
+----------------------------------------
+
+Booking ID: 97
+Passenger: John Doe
+Flight: AI101 | Seat: 5A
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-03 21:54:56
+----------------------------------------
+
+Booking ID: 96
+Passenger: Nandan  Kabra
+Flight: AI101 | Seat: 2B
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-03 16:53:03
+----------------------------------------
+
+Booking ID: 95
+Passenger: Alice Ray
+Flight: VS105 | Seat: 5A
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-03 16:51:42
+----------------------------------------
+
+Booking ID: 94
+Passenger: John Doe
+Flight: VS105 | Seat: 5A
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-03 16:47:15
+----------------------------------------
+
+Booking ID: 93
+Passenger: John Doe
+Flight: AI101 | Seat: 10C
+Status: Confirmed | Amount: Rs. 30,000.00
+Date: 2025-10-03 16:44:35
+----------------------------------------
+
+Booking ID: 92
+Passenger: William White
+Flight: AI101 | Seat: 8A
+Status: Confirmed | Amount: Rs. 15,000.00
+Date: 2025-10-01 17:30:00
+----------------------------------------
+
+Booking ID: 91
+Passenger: John Doe
+Flight: AI101 | Seat: 10A
+Status: Confirmed | Amount: Rs. 30,000.00
+Date: 2025-10-01 10:45:13
+----------------------------------------
+
+Booking ID: 6
+Passenger: Mia Johnson
+Flight: AA106 | Seat: 2C
+Status: Cancelled | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 16
+Passenger: Charlotte Harris
+Flight: AA106 | Seat: 6A
+Status: Confirmed | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 26
+Passenger: Scarlett Walker
+Flight: AA106 | Seat: 9C
+Status: Pending | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 36
+Passenger: Zoey Green
+Flight: AA106 | Seat: 2C
+Status: Cancelled | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 46
+Passenger: Sofia Campbell
+Flight: AA106 | Seat: 6A
+Status: Confirmed | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 56
+Passenger: Scarlett Cook
+Flight: AA106 | Seat: 9C
+Status: Pending | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 66
+Passenger: Ava Bennett
+Flight: AA106 | Seat: 2C
+Status: Cancelled | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 76
+Passenger: Amelia Patterson
+Flight: AA106 | Seat: 6A
+Status: Confirmed | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 86
+Passenger: Victoria Russell
+Flight: AA106 | Seat: 9C
+Status: Pending | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 1
+Passenger: John Doe
+Flight: AI101 | Seat: 1A
+Status: Confirmed | Amount: Rs. 5,200.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 11
+Passenger: James Taylor
+Flight: AI101 | Seat: 4B
+Status: Pending | Amount: Rs. 5,600.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 21
+Passenger: Lucas Robinson
+Flight: AI101 | Seat: 8A
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 31
+Passenger: Nathan King
+Flight: AI101 | Seat: 1A
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 41
+Passenger: Christopher Mitchell
+Flight: AI101 | Seat: 4B
+Status: Pending | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 51
+Passenger: David Stewart
+Flight: AI101 | Seat: 8A
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 61
+Passenger: Owen Hughes
+Flight: AI101 | Seat: 1A
+Status: Confirmed | Amount: Rs. 5,600.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 71
+Passenger: James Coleman
+Flight: AI101 | Seat: 4B
+Status: Pending | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 81
+Passenger: Mason Simmons
+Flight: AI101 | Seat: 8A
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 9
+Passenger: Noah Wilson
+Flight: AI109 | Seat: 3C
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 19
+Passenger: Elijah Garcia
+Flight: AI109 | Seat: 7A
+Status: Confirmed | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 29
+Passenger: Daniel Young
+Flight: AI109 | Seat: 10C
+Status: Pending | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 39
+Passenger: Anthony Nelson
+Flight: AI109 | Seat: 3C
+Status: Cancelled | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 49
+Passenger: Samuel Edwards
+Flight: AI109 | Seat: 7A
+Status: Confirmed | Amount: Rs. 5,600.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 59
+Passenger: Logan Murphy
+Flight: AI109 | Seat: 10C
+Status: Pending | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 69
+Passenger: Alexander Ross
+Flight: AI109 | Seat: 3C
+Status: Cancelled | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 79
+Passenger: Lucas Washington
+Flight: AI109 | Seat: 7A
+Status: Confirmed | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 89
+Passenger: Alexander Hayes
+Flight: AI109 | Seat: 10C
+Status: Pending | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 4
+Passenger: Eve Williams
+Flight: GA104 | Seat: 2A
+Status: Confirmed | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 14
+Passenger: Ava Jackson
+Flight: GA104 | Seat: 5B
+Status: Pending | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 24
+Passenger: Ella Lewis
+Flight: GA104 | Seat: 9A
+Status: Cancelled | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 34
+Passenger: Chloe Hill
+Flight: GA104 | Seat: 2A
+Status: Confirmed | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 44
+Passenger: Ella Turner
+Flight: GA104 | Seat: 5B
+Status: Pending | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 54
+Passenger: Camila Rogers
+Flight: GA104 | Seat: 9A
+Status: Cancelled | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 64
+Passenger: Emily Ross
+Flight: GA104 | Seat: 2A
+Status: Confirmed | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 74
+Passenger: Charlotte Powell
+Flight: GA104 | Seat: 5B
+Status: Pending | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 84
+Passenger: Lily Bryant
+Flight: GA104 | Seat: 9A
+Status: Cancelled | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 2
+Passenger: Alice Ray
+Flight: IG102 | Seat: 1B
+Status: Pending | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 12
+Passenger: Emma Anderson
+Flight: IG102 | Seat: 4C
+Status: Cancelled | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 22
+Passenger: Evelyn Clark
+Flight: IG102 | Seat: 8B
+Status: Confirmed | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 32
+Passenger: Lily Wright
+Flight: IG102 | Seat: 1B
+Status: Pending | Amount: Rs. 5,200.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 42
+Passenger: Abigail Perez
+Flight: IG102 | Seat: 4C
+Status: Cancelled | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 52
+Passenger: Aubrey Sanchez
+Flight: IG102 | Seat: 8B
+Status: Confirmed | Amount: Rs. 5,200.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 62
+Passenger: Hannah Foster
+Flight: IG102 | Seat: 1B
+Status: Pending | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 72
+Passenger: Mia Jenkins
+Flight: IG102 | Seat: 4C
+Status: Cancelled | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 82
+Passenger: Avery Foster
+Flight: IG102 | Seat: 8B
+Status: Confirmed | Amount: Rs. 5,200.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 10
+Passenger: Isabella Moore
+Flight: IG110 | Seat: 4A
+Status: Confirmed | Amount: Rs. 5,200.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 20
+Passenger: Harper Martinez
+Flight: IG110 | Seat: 7B
+Status: Pending | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 30
+Passenger: Victoria Hernandez
+Flight: IG110 | Seat: 10D
+Status: Cancelled | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 40
+Passenger: Hannah Carter
+Flight: IG110 | Seat: 4A
+Status: Confirmed | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 50
+Passenger: Lillian Collins
+Flight: IG110 | Seat: 7B
+Status: Pending | Amount: Rs. 5,800.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 60
+Passenger: Grace Bailey
+Flight: IG110 | Seat: 10D
+Status: Cancelled | Amount: Rs. 5,200.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 70
+Passenger: Isabella Henderson
+Flight: IG110 | Seat: 4A
+Status: Confirmed | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 80
+Passenger: Harper Butler
+Flight: IG110 | Seat: 7B
+Status: Pending | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 90
+Passenger: Sofia Myers
+Flight: IG110 | Seat: 10D
+Status: Cancelled | Amount: Rs. 13,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 7
+Passenger: Liam Davis
+Flight: JA107 | Seat: 3A
+Status: Confirmed | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 17
+Passenger: Benjamin Martin
+Flight: JA107 | Seat: 6B
+Status: Pending | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 27
+Passenger: Alexander Hall
+Flight: JA107 | Seat: 10A
+Status: Cancelled | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 37
+Passenger: Ryan Adams
+Flight: JA107 | Seat: 3A
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 47
+Passenger: Joseph Parker
+Flight: JA107 | Seat: 6B
+Status: Pending | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 57
+Passenger: Daniel Morgan
+Flight: JA107 | Seat: 10A
+Status: Cancelled | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 67
+Passenger: Ethan Wood
+Flight: JA107 | Seat: 3A
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 77
+Passenger: Daniel Hughes
+Flight: JA107 | Seat: 6B
+Status: Pending | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 87
+Passenger: Samuel Griffin
+Flight: JA107 | Seat: 10A
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 3
+Passenger: Bob Smith
+Flight: SJ103 | Seat: 1C
+Status: Cancelled | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 13
+Passenger: Oliver Thomas
+Flight: SJ103 | Seat: 5A
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 23
+Passenger: Mason Rodriguez
+Flight: SJ103 | Seat: 8C
+Status: Pending | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 33
+Passenger: Ethan Lopez
+Flight: SJ103 | Seat: 1C
+Status: Cancelled | Amount: Rs. 5,600.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 43
+Passenger: Joshua Roberts
+Flight: SJ103 | Seat: 5A
+Status: Confirmed | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 53
+Passenger: Joseph Morris
+Flight: SJ103 | Seat: 8C
+Status: Pending | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 63
+Passenger: Liam Sanders
+Flight: SJ103 | Seat: 1C
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 73
+Passenger: William Perry
+Flight: SJ103 | Seat: 5A
+Status: Confirmed | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 83
+Passenger: Logan Gonzalez
+Flight: SJ103 | Seat: 8C
+Status: Pending | Amount: Rs. 5,600.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 8
+Passenger: Sophia Miller
+Flight: TJ108 | Seat: 3B
+Status: Pending | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 18
+Passenger: Amelia Thompson
+Flight: TJ108 | Seat: 6C
+Status: Cancelled | Amount: Rs. 5,600.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 28
+Passenger: Grace Allen
+Flight: TJ108 | Seat: 10B
+Status: Confirmed | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 38
+Passenger: Madison Baker
+Flight: TJ108 | Seat: 3B
+Status: Pending | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 48
+Passenger: Avery Evans
+Flight: TJ108 | Seat: 6C
+Status: Cancelled | Amount: Rs. 5,200.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 58
+Passenger: Victoria Bell
+Flight: TJ108 | Seat: 10B
+Status: Confirmed | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 68
+Passenger: Sophia Barnes
+Flight: TJ108 | Seat: 3B
+Status: Pending | Amount: Rs. 5,600.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 78
+Passenger: Ella Flores
+Flight: TJ108 | Seat: 6C
+Status: Cancelled | Amount: Rs. 15,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 88
+Passenger: Grace Diaz
+Flight: TJ108 | Seat: 10B
+Status: Confirmed | Amount: Rs. 5,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 5
+Passenger: Charlie Brown
+Flight: VS105 | Seat: 2B
+Status: Pending | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 15
+Passenger: William White
+Flight: VS105 | Seat: 5C
+Status: Cancelled | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 25
+Passenger: Logan Lee
+Flight: VS105 | Seat: 9B
+Status: Confirmed | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 35
+Passenger: Jacob Scott
+Flight: VS105 | Seat: 2B
+Status: Pending | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 45
+Passenger: Andrew Phillips
+Flight: VS105 | Seat: 5C
+Status: Cancelled | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 55
+Passenger: Matthew Reed
+Flight: VS105 | Seat: 9B
+Status: Confirmed | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 65
+Passenger: Noah Price
+Flight: VS105 | Seat: 2B
+Status: Pending | Amount: Rs. 12,500.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 75
+Passenger: Benjamin Long
+Flight: VS105 | Seat: 5C
+Status: Cancelled | Amount: Rs. 5,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+Booking ID: 85
+Passenger: Ethan Alexander
+Flight: VS105 | Seat: 9B
+Status: Confirmed | Amount: Rs. 15,000.00
+Date: 2025-10-01 10:37:55
+----------------------------------------
+
+================================================================================
+END OF REPORT
+================================================================================
